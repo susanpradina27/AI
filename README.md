@@ -16,17 +16,17 @@ Jawab: membuat komputer/mesin memahami bahasa biasa, bersama segala ambiguitasny
 <p>Istilah pada AI<br>
 
 <p>1.	Pengolahan Bahasa Alami ( Natural Language Procesing)<br>
-<p>Natural Language Processing  (NLP) atau Pemrosesan Bahasa Alami (PBA) adalah cabang ilmu komputer dan linguistik yang mengkaji interaksi antara komputer dengan bahasa (alami) manusia. Contohnya: Chatbox</p>
+Natural Language Processing  (NLP) atau Pemrosesan Bahasa Alami (PBA) adalah cabang ilmu komputer dan linguistik yang mengkaji interaksi antara komputer dengan bahasa (alami) manusia. Contohnya: Chatbox</p>
 <p>2.	Knowledge representation ( Representasi Pengetahuan )<br>
 Merepresentasikan pengetahuan ke dalam basis pengetahuan dan menguji kebenaran penalaran. Contohnya: MACSYMA (Menangani masalah matematika)</p>
 <p>3.	Automated Reasoning ( Penalaran Otomatis)<br>
-<p>penalaran otomatis adalah bidang ilmu komputer dan logika matematika yang didedikasikan untuk memahami berbagai aspek penalaran, membantu menghasilkan program komputer yang memungkinkan komputer untuk alasan sepenuhnya, atau hampir sepenuhnya, secara otomatis. Contohnya: Dalam dunia medis ada juga software MedicWare dilengkapi dengan ribuan pengetahuan tentang jenis, merek, efek samping dan interaksi berbagai jenis obat- obatan.</p>
+penalaran otomatis adalah bidang ilmu komputer dan logika matematika yang didedikasikan untuk memahami berbagai aspek penalaran, membantu menghasilkan program komputer yang memungkinkan komputer untuk alasan sepenuhnya, atau hampir sepenuhnya, secara otomatis. Contohnya: Dalam dunia medis ada juga software MedicWare dilengkapi dengan ribuan pengetahuan tentang jenis, merek, efek samping dan interaksi berbagai jenis obat- obatan.</p>
 <p>4.	Machine Learning<br>
-<p>Machine learning adalah subfield ilmu komputer  dan kecerdasan buatan (AI) yang berhubungan dengan pembangunan dan studi tentang sistem yang bisa belajar dari data, bukan hanya mengikuti instruksi eksplisit diprogram. Contohnya: menerjemahkan bahasa menggunakan mesin/ machine translation, atau memisahkan email antara yang spam dan yang non-spam.</p>
+Machine learning adalah subfield ilmu komputer  dan kecerdasan buatan (AI) yang berhubungan dengan pembangunan dan studi tentang sistem yang bisa belajar dari data, bukan hanya mengikuti instruksi eksplisit diprogram. Contohnya: menerjemahkan bahasa menggunakan mesin/ machine translation, atau memisahkan email antara yang spam dan yang non-spam.</p>
 <p>5.	Computer Vision ( Visi Komputer)<br>
-<p>Computer vision merupakan sub disiplin ilmu dari kecerdasan buatan yang mempelajari bagaimana mesin dapat mengenali objek yang diamati atau diobservasi. Contohnya: Dalam dunia industri computer vision dapat digunakan untuk melakukan otomasi terhadap kegiatan pengendalian kualitas produk, sehingga produk yang cacat dan yang baik dapat dipisahkan oleh mesin.</p>
+Computer vision merupakan sub disiplin ilmu dari kecerdasan buatan yang mempelajari bagaimana mesin dapat mengenali objek yang diamati atau diobservasi. Contohnya: Dalam dunia industri computer vision dapat digunakan untuk melakukan otomasi terhadap kegiatan pengendalian kualitas produk, sehingga produk yang cacat dan yang baik dapat dipisahkan oleh mesin.</p>
 <p>6.	Robotika<br>
-<p>Sistem sensor, seperti sistem vision, sistem tactile, dan sistem pemrosesan sinyal jika dikombinasikan dengan AI, dapat dikategorikan kedalam suatu sistem yang luas yang disebut sistem robotik. Contohnya: Sojoumer, kendaraan robot beroda enam yang digunakan NASA 1997</p>
+Sistem sensor, seperti sistem vision, sistem tactile, dan sistem pemrosesan sinyal jika dikombinasikan dengan AI, dapat dikategorikan kedalam suatu sistem yang luas yang disebut sistem robotik. Contohnya: Sojoumer, kendaraan robot beroda enam yang digunakan NASA 1997</p>
 
 Sumber:<br> 
 https://id.wikipedia.org/wiki/Tes_Turing<br>
